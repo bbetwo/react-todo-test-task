@@ -1,5 +1,9 @@
 #react-todo-test/task
 
+## DEMO
+
+https://bbetwo.github.io/react-todo-test-task/
+
 ## Описание
 
 Простое одностроничное приложение для управления задачами(task/todo) - добавлениеб отображениеб именения статуса и удаление.
