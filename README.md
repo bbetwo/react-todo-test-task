@@ -10,3 +10,12 @@
 -   Vite
 -   Tailwind CSS
 -   Context/Reducer
+
+## Установка
+
+```bash
+git clone https://github.com/bbetwo/react-todo-test-task.git
+cd react-todo-test-task
+npm install
+npm run dev
+```
